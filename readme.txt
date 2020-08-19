@@ -3,10 +3,9 @@ Contributors: roytanck
 Donate link: http://www.roytanck.com/
 Tags: pages, widget, filter, folding, accordion, menu
 Requires at least: 3.5.2
-Tested up to: 5.4
-Stable tag: 0.9.4
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tested up to: 5.5
+Stable tag: 1.0
+License: GPLv3
 
 Hooks into WordPress core function wp_list_pages, and removes pages from the generated list that are not part of the current navigation path.
 
@@ -80,6 +79,11 @@ Ideally, your theme should take care of this.
 2. Child pages of non-ancestor pages are filtered from the page list
 
 == Changelog ==
+
+= 1.0 (2020-08-19) =
+* Version bump to 1.0
+* Tested succesfully with WordPress 5.5
+* Development moved to GitHub
 
 = 0.9.4 =
 * Updated Dutch translation
