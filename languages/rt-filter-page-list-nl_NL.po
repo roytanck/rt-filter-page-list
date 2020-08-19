@@ -1,0 +1,77 @@
+# Copyright (C) 2015 RT Filter Page List
+# This file is distributed under the same license as the RT Filter Page List package.
+msgid ""
+msgstr ""
+"Project-Id-Version: RT Filter Page List 0.9.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/rt-filter-page-list\n"
+"POT-Creation-Date: 2015-09-27 10:07:50+00:00\n"
+"PO-Revision-Date: 2015-09-27 12:12+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: inc/rt-filter-page-list-options.php:46
+msgid "RT Filter Page List Settings"
+msgstr "RT Filter Page List instellingen"
+
+#. Plugin Name of the plugin/theme
+#: inc/rt-filter-page-list-options.php:47 inc/rt-filter-page-list-options.php:69
+#: inc/rt-filter-page-list-options.php:71
+msgid "RT Filter Page List"
+msgstr "RT Filter Page List"
+
+#: inc/rt-filter-page-list-options.php:96
+msgid "General settings"
+msgstr "Instellingen"
+
+#: inc/rt-filter-page-list-options.php:103
+msgid "Filter type"
+msgstr "Wijze van filteren"
+
+#: inc/rt-filter-page-list-options.php:142
+msgid "Modify the behavior of the Pages widget"
+msgstr "Verander de weergave van de standaard Pagina's-widget"
+
+#: inc/rt-filter-page-list-options.php:144
+msgid "Modify wp_list_pages globally"
+msgstr "Verander het gedrag van de WordPress-functie wp_list_pages"
+
+#: inc/rt-filter-page-list-options.php:146
+msgid "None"
+msgstr "Geen"
+
+#: inc/rt-filter-page-list-options.php:154
+msgid ""
+"It appears that DOMDocument is not installed on the server, please install "
+"DOMDocument to use this plugin."
+msgstr ""
+"Het lijkt er op dat de PHP-module DOMDocument niet geïnstalleerd is. Deze module "
+"is noodzakelijk voor de werking van deze plugin."
+
+#: inc/rt-filter-page-list-widget.php:40
+msgid "Pages"
+msgstr "Pagina's"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.roytanck.com"
+msgstr "http://www.roytanck.com"
+
+#. Description of the plugin/theme
+msgid ""
+"Filters the output of wp_list_pages, so that pages that are usually hidden through "
+"CSS are stripped from the DOM. This helps performance on sites with many pages. "
+"Requires DOMDocument."
+msgstr ""
+"Filtert de output van wp_list_pages, zodat de pagina's die veelal verborgen worden "
+"via CSS uit de pagina verwijderd worden. Dit verbetert de performance van sites "
+"met veel pagina's."
+
+#. Author of the plugin/theme
+msgid "Roy Tanck"
+msgstr "Roy Tanck"

@@ -1,0 +1,69 @@
+# Copyright (C) 2014 RT Filter Page List
+# This file is distributed under the same license as the RT Filter Page List package.
+msgid ""
+msgstr ""
+"Project-Id-Version: RT Filter Page List 0.9.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/rt-filter-page-list\n"
+"POT-Creation-Date: 2014-07-16 11:16:44+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-07-21 13:09+0100\n"
+"Last-Translator: jelena kovacevic <jecajeca260@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: Poedit 1.5.5\n"
+
+#: inc/rt-filter-page-list-options.php:46
+msgid "RT Filter Page List Settings"
+msgstr "Configuración de RT Filter Page List "
+
+#. #-#-#-#-#  plugin.pot (RT Filter Page List 0.9.1)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: inc/rt-filter-page-list-options.php:47
+msgid "RT Filter Page List"
+msgstr "RT Filter Page List"
+
+#: inc/rt-filter-page-list-options.php:134
+msgid "Modify the behavior of the Pages widget"
+msgstr "Modificar el comportamiento del widget de Pages"
+
+#: inc/rt-filter-page-list-options.php:136
+msgid "Modify wp_list_pages globally"
+msgstr "Modificar wp_list_pages globalmente"
+
+#: inc/rt-filter-page-list-options.php:138
+msgid "None"
+msgstr "Ninguno"
+
+#: inc/rt-filter-page-list-options.php:146
+msgid ""
+"It appears that DOMDocument is not installed on the server, please install "
+"DOMDocument to use this plugin."
+msgstr ""
+"Parece que DOMDocument no está instalado en el servidor, por favor, instale "
+"DOMDocument para utilizar este plugin."
+
+#: inc/rt-filter-page-list-widget.php:40
+msgid "Pages"
+msgstr "Páginas"
+
+#. #-#-#-#-#  plugin.pot (RT Filter Page List 0.9.1)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  plugin.pot (RT Filter Page List 0.9.1)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://www.roytanck.com"
+msgstr "http://www.roytanck.com"
+
+#. Description of the plugin/theme
+msgid ""
+"Filters the output of wp_list_pages, so that pages that are usually hidden "
+"through CSS are stripped from the DOM. This helps performance on sites with "
+"many pages. Requires DOMDocument."
+msgstr ""
+"Filtra la salida de wp_list_pages, por lo que las páginas que normalmente "
+"están ocultas a través de CSS son despojadas de la DOM. Esto mejora el "
+"rendimiento en sitios con muchas páginas. Requiere DOMDocument."
+
+#. Author of the plugin/theme
+msgid "Roy Tanck"
+msgstr "Roy Tanck"
