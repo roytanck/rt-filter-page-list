@@ -84,6 +84,7 @@ Ideally, your theme should take care of this.
 * Version bump to 1.0
 * Tested succesfully with WordPress 5.5
 * Development moved to GitHub
+* Translations now done through wp-org
 
 = 0.9.4 =
 * Updated Dutch translation
@@ -93,7 +94,7 @@ Ideally, your theme should take care of this.
 * Added support for WordPress 4.3's more accessible heading structure
 
 = 0.9.2 =
-* Added Spanish translation (thanks to [Andrew Kurtis](http://www.webhostinghub.com/))
+* Added Spanish translation
 * Tested against WordPress 4.0
 
 = 0.9.1 =

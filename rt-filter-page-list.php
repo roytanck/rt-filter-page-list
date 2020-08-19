@@ -6,8 +6,6 @@
  * Version: 1.0
  * Author: Roy Tanck
  * Author URI: http://www.roytanck.com
- * Text Domain: rt-filter-page-list
- * Domain Path: /languages
  * License: GPL3
 */
 
@@ -52,16 +50,6 @@ if( !class_exists('RT_Filter_Page_List') ){
 			} else {
 				error_log( 'DOMDocument not available. Please install DOMDocument to use the RT Filter Page List plugin.' );
 			}
-			// load the text domain
-			add_action( 'plugins_loaded', array( $this, 'load_textdomain' ) );
-		}
-
-
-		/**
-		 * Function to load the text domain
-		 */
-		function load_textdomain() {
-			load_plugin_textdomain( 'rt-filter-page-list', false, dirname( plugin_basename( __FILE__ ) ) . '/languages/' ); 
 		}
 
 
