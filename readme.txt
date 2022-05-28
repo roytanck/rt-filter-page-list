@@ -3,7 +3,7 @@ Contributors: roytanck
 Donate link: http://www.roytanck.com/
 Tags: pages, widget, filter, folding, accordion, menu
 Requires at least: 3.5.2
-Tested up to: 5.9
+Tested up to: 6.0
 Stable tag: 1.0
 License: GPLv3
 
